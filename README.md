@@ -1,6 +1,6 @@
 # COVID19_Lung_Classification_CXR_Emory_ResNet50
 
-MIDRC CRP-2: Machine intelligence algorithms from multi-modal, multi-institutional COVID-19 data   
+**MIDRC CRP-2: Machine intelligence algorithms from multi-modal, multi-institutional COVID-19 data**    
 (https://www.midrc.org/midrc-collaborating-research-projects/project-one-crp2)  
 
 **Modality:** X-ray  
